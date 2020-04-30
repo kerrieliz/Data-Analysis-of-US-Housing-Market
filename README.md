@@ -1,5 +1,5 @@
 # Data Analysis of the US Housing Market 
-> This project will investigate the correlation between reigional US housing market prices, vacancy rates, and the federal interest rate over the last 20 years. 
+> This project will investigate the correlation between regional US housing market prices, vacancy rates, and the federal interest rate over the last 20 years. 
 
 Data sets:
 1. Quarterly Rental Vacancy Rates 
