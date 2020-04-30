@@ -1,5 +1,5 @@
 # Project-1-
-> This project will investigate the correlation between US (or just major cities) housing market prices, vacancy rates, and the federal interest rate over the last 20 years. 
+> This project will investigate the correlation between reigional US housing market prices, vacancy rates, and the federal interest rate over the last 20 years. 
 
 Data sets:
 1. Quarterly Rental Vacancy Rates 
