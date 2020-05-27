@@ -8,6 +8,10 @@ Data sets:
    Source: macrotrends.net (macrotrends.net/2015/fed-funds-rate-historical-chart)
 3. Housing Market Valuation
    Source: Quandl API 
+   
+Findings: 
+- As Rental Vacancy Rates rise with Interest Rates, Market Valuation decreases. 
+- Based on the data, this appears be cyclical or tied to major external events. 
 
 > Citations:
 >> U.S. Census Bureau, Rental Vacancy Rate for the United States [RRVRUSQ156N], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/RRVRUSQ156N, October 5, 2019.
